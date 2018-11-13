@@ -10,15 +10,12 @@ Table of Contents:
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
    content/introduction
    content/fundamentals
    content/chapter
-   content/conclusion
+   commands/index
    content/zreferences
-
-.. include:: content/introduction.rst
 
 .. Indices and tables
 .. ==================
